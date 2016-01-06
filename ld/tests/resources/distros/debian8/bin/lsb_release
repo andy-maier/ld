@@ -1,5 +1,8 @@
 #!/bin/bash
+<<<<<<< HEAD
 #
+=======
+>>>>>>> Added missing files in usr and bin directories under distros, that were excluded by .gitignore.
 # lsb_release command for testing the ld module.
 # Only the -a option is supported.
 #
